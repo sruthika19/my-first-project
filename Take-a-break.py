@@ -17,7 +17,7 @@ def start_timer():
             time.sleep(1)  # Pause for 1 second
   
         messagebox.showinfo("Take a Break", "Time to relax!")  # Show an info dialog box
-        webbrowser.open("https://www.youtube.com/ watch?v=Z6rSuKeHBR0")
+        webbrowser.open("https://www.youtube.com/watch?v=17JtVXW3xTs")
     except ValueError:
         # Handle invalid input (e.g., if the user doesn't enter a number)
         messagebox.showerror("Invalid Input", "Please enter a valid number!")
